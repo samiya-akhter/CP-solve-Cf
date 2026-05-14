@@ -8,7 +8,7 @@
 | **Tags** | implementation |
 | **Verdict** | ✅ Accepted |
 | **Language** | C++23 (GCC 14-64, msys2) |
-| **Runtime** | 31 ms |
+| **Runtime** | 46 ms |
 | **Memory** | 0 KB |
 
 ---
