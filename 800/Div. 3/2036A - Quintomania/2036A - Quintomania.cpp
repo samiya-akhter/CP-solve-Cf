@@ -23,18 +23,20 @@ void solve() {
   cin>>n;
 
   vector<int> v(n);
-   for(auto &a:v){
-    cin>>a;
-   }
+   
    int a;
    bool ok=true;
 
-   for(int i=0;i<n-1;i++){
+   cin>>v[0];
+
+ 
+   for(int i=1;i<n;i++){
+    cin>>v[i];
     
-    a=abs(v[i]-v[i+1]);
+    a=abs(v[i-1]-v[i]);
     if(a!=5&&a!=7){
       ok=false;
-      break;
+      
     }
    }
 
