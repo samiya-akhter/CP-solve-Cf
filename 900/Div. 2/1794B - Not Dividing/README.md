@@ -76,7 +76,7 @@ In the third test case, not applying any operations results in an array that sat
 
 ---
 
-> 🔗 [View on Codeforces](https://codeforces.com/problemset/problem/1794/B)
+> 🔗 [View on Codeforces](https://codeforces.com/contest/1794/problem/B)
 
 ---
 *Synced by [CodeforcesSync](https://github.com/parthopaul69/Codeforces)*
