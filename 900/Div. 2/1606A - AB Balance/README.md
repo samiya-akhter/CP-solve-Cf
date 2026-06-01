@@ -77,7 +77,7 @@ In the fourth test case, `AB(s) = 2` and `BA(s) = 1`. For example, we can change
 
 ---
 
-> 🔗 [View on Codeforces](https://codeforces.com/problemset/problem/1606/A)
+> 🔗 [View on Codeforces](https://codeforces.com/contest/1606/problem/A)
 
 ---
 *Synced by [CodeforcesSync](https://github.com/parthopaul69/Codeforces)*
