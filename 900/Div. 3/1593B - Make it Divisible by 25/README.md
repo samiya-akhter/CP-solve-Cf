@@ -74,7 +74,7 @@ In the fifth test case, it's enough to remove the digits `4` and `7`.
 
 ---
 
-> 🔗 [View on Codeforces](https://codeforces.com/problemset/problem/1593/B)
+> 🔗 [View on Codeforces](https://codeforces.com/contest/1593/problem/B)
 
 ---
 *Synced by [CodeforcesSync](https://github.com/parthopaul69/Codeforces)*
