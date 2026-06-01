@@ -66,7 +66,7 @@ In the third example query any permutation of the given answer is acceptable (th
 
 ---
 
-> 🔗 [View on Codeforces](https://codeforces.com/problemset/problem/1092/A)
+> 🔗 [View on Codeforces](https://codeforces.com/contest/1092/problem/A)
 
 ---
 *Synced by [CodeforcesSync](https://github.com/parthopaul69/Codeforces)*
