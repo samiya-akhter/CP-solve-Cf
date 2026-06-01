@@ -65,7 +65,7 @@ For each test case, output the minimum number of digits that the intern could pu
 
 ---
 
-> 🔗 [View on Codeforces](https://codeforces.com/contest/2091/problem/A?adcd1e=caf4fjbzhmko1w&csrf_token=e0694424046e055b3b2b43023ba1047b)
+> 🔗 [View on Codeforces](https://codeforces.com/contest/2091/problem/A)
 
 ---
 *Synced by [CodeforcesSync](https://github.com/parthopaul69/Codeforces)*
