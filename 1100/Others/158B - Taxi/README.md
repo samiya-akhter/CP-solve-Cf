@@ -19,11 +19,11 @@
 
 ---
 
-After the lessons *n* groups of schoolchildren went outside and decided to visit Polycarpus to celebrate his birthday. We know that the *i*-th group consists of *s*_*i* friends (1 ≤ *s*_*i* ≤ 4), and they want to go to Polycarpus together. They decided to get there by taxi. Each car can carry at most four passengers. What minimum number of cars will the children need if all members of each group should ride in the same taxi (but one taxi can take more than one group)?
+After the lessons *n* groups of schoolchildren went outside and decided to visit Polycarpus to celebrate his birthday. We know that the *i*-th group consists of *s*_(*i*) friends (1 ≤ *s*_(*i*) ≤ 4), and they want to go to Polycarpus together. They decided to get there by taxi. Each car can carry at most four passengers. What minimum number of cars will the children need if all members of each group should ride in the same taxi (but one taxi can take more than one group)?
 
 ## Input
 
-The first line contains integer *n* (1 ≤ *n* ≤ 10^5) — the number of groups of schoolchildren. The second line contains a sequence of integers *s*_1, *s*_2, ..., *s*_*n* (1 ≤ *s*_*i* ≤ 4). The integers are separated by a space, *s*_*i* is the number of children in the *i*-th group.
+The first line contains integer *n* (1 ≤ *n* ≤ 10^(5)) — the number of groups of schoolchildren. The second line contains a sequence of integers *s*_(1), *s*_(2), ..., *s*_(*n*) (1 ≤ *s*_(*i*) ≤ 4). The integers are separated by a space, *s*_(*i*) is the number of children in the *i*-th group.
 
 ## Output
 
@@ -74,7 +74,7 @@ There are other ways to sort the groups into four cars.
 
 ---
 
-> 🔗 [View on Codeforces](https://codeforces.com/problemset/problem/158/B)
+> 🔗 [View on Codeforces](https://codeforces.com/contest/158/problem/B)
 
 ---
 *Synced by [CodeforcesSync](https://github.com/parthopaul69/Codeforces)*
