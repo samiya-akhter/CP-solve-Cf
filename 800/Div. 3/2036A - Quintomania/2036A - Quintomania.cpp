@@ -24,6 +24,7 @@ void solve() {
 
   vector<int> v(n);
    
+   int a;
    bool ok=true;
 
    cin>>v[0];
@@ -32,8 +33,8 @@ void solve() {
    for(int i=1;i<n;i++){
     cin>>v[i];
     
-   
-    if(abs(v[i-1]-v[i])!=5&& abs(v[i-1]-v[i])!=7){
+    a=abs(v[i-1]-v[i]);
+    if(a!=5&&a!=7){
       ok=false;
       
     }
