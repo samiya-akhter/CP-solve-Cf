@@ -77,7 +77,7 @@ In the third test case, `s=1+0=1`, the nearly full subsequences are `(0)` and `(
 
 ---
 
-> 🔗 [View on Codeforces](https://codeforces.com/problemset/problem/1582/B)
+> 🔗 [View on Codeforces](https://codeforces.com/contest/1582/problem/B)
 
 ---
 *Synced by [CodeforcesSync](https://github.com/parthopaul69/Codeforces)*
