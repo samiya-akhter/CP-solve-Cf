@@ -83,7 +83,7 @@ In the fourth test case, one optimal way is doing the operation with `l=1`, `r=1
 
 ---
 
-> 🔗 [View on Codeforces](https://codeforces.com/problemset/problem/1696/B)
+> 🔗 [View on Codeforces](https://codeforces.com/contest/1696/problem/B)
 
 ---
 *Synced by [CodeforcesSync](https://github.com/parthopaul69/Codeforces)*
