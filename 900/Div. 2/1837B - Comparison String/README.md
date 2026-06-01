@@ -79,7 +79,7 @@ In the second test case of the example, the array can be `[42, 37, 13, 37, 42]`.
 
 ---
 
-> 🔗 [View on Codeforces](https://codeforces.com/problemset/problem/1837/B)
+> 🔗 [View on Codeforces](https://codeforces.com/contest/1837/problem/B)
 
 ---
 *Synced by [CodeforcesSync](https://github.com/parthopaul69/Codeforces)*
