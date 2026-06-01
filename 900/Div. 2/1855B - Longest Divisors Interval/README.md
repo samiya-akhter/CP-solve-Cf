@@ -81,7 +81,7 @@ In the seventh test case, a valid interval with maximum size is `[327869, 327871
 
 ---
 
-> 🔗 [View on Codeforces](https://codeforces.com/problemset/problem/1855/B)
+> 🔗 [View on Codeforces](https://codeforces.com/contest/1855/problem/B)
 
 ---
 *Synced by [CodeforcesSync](https://github.com/parthopaul69/Codeforces)*
