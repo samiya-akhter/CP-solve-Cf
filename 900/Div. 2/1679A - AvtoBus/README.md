@@ -77,7 +77,7 @@ So the minimum number of buses is `4` and the maximum number of buses is `6`.
 
 ---
 
-> 🔗 [View on Codeforces](https://codeforces.com/problemset/problem/1679/A)
+> 🔗 [View on Codeforces](https://codeforces.com/contest/1679/problem/A)
 
 ---
 *Synced by [CodeforcesSync](https://github.com/parthopaul69/Codeforces)*
